@@ -17,7 +17,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solução](https://github.com/weslleyvieira-dev/Social-Proof-Section)
-- Live Site URL: [Vercel](social-proof-section-nu-fawn.vercel.app)
+- Live Site URL: [Vercel](https://social-proof-section-nu-fawn.vercel.app/)
 
 ### Built with
 
