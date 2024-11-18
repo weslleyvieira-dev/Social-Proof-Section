@@ -13,7 +13,6 @@ Users should be able to:
 ### Screenshot
 
 ![PC](./Screenshot%20-%20PC.png)
-![Mobile](./Screenshot%20-%20Mobile.png)
 
 ### Links
 
